@@ -28,4 +28,5 @@ This program is intended to put texts in the .txt file on powerpoint slides.
 >프로그래밍은 지겨운 일을 자동으로 할 수 있게 도와준다. 내가 필요한 걸 만드니 몰랐던 기능도 배울 의지가 생긴다. 흥미와 새로운 배울 거리가 적절히 섞인 다음 아이템을 찾아보자! 
 ### _Created Powerpoint slide_
 ![Slide1](https://user-images.githubusercontent.com/84579416/128120738-2ea9a5fc-0c86-425b-a613-3629792a8999.jpg)
+
 ![Slide2](https://user-images.githubusercontent.com/84579416/128120746-1e732d31-ed91-4613-a5c7-ad933b20cc9a.jpg)
